@@ -4,7 +4,3 @@
 This git repository is a collection of challenges for students who wish to push their programming skills further.
 
 Sample solutions, where available, are provided in the `sample` folder.
-
-# How to play
-
-Launch this repository in Binder by clicking on the binder badge beside the title.

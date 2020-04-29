@@ -12,30 +12,30 @@ This is a brief index of the challenges in this project so far.
 
 ### 01 Simple Data Structures
 
-1. Google contacts
+1. Google contacts  
    Download your Google contacts and modify them in Python.
 
-2. Hotkeys
+2. Hotkeys  
    Read in game hotkeys from a file, and write code to find the function for
    a hotkey or find the hotkey for a function quickly.
 
-3. Note survey
+3. Note survey  
    Write code to process data from a survey.
 
 ### 02 Complex Data Structures
 
-1. Myers diff algorithm
+1. Myers diff algorithm  
    Implement the Myers diff algorithm for comparing two text files.
 
 ### 03 Algorithms
 
-1. Booklet layout
+1. Booklet layout  
    Write code to generate the page order for a booklet layout.
 
-2. Minimum coins
+2. Minimum coins  
    Write code to determine the minimum number of coins needed to make up the
    required amount of change.
 
-3. Dropbox sync
+3. Dropbox sync  
    Use the Dropbox API to sync your JupyterHub files to your Dropbox
    account.

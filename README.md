@@ -4,6 +4,8 @@
 This git repository is a collection of challenges for students who wish to push
 their programming skills further.
 
+Suggestions for pushing it further are given for each challenge.
+
 Sample solutions, where available, are provided in the `sample` folder.
 
 ## Index
@@ -36,6 +38,5 @@ This is a brief index of the challenges in this project so far.
    Write code to determine the minimum number of coins needed to make up the
    required amount of change.
 
-3. Dropbox sync  
-   Use the Dropbox API to sync your JupyterHub files to your Dropbox
-   account.
+3. Sudoku solver
+   Write code to solve a 3×3 sudoku puzzle.

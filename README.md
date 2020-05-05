@@ -38,5 +38,8 @@ This is a brief index of the challenges in this project so far.
    Write code to determine the minimum number of coins needed to make up the
    required amount of change.
 
-3. Sudoku solver
+3. Sudoku solver  
    Write code to solve a 3×3 sudoku puzzle.
+
+4. Credit card  
+   Write code to generate valid credit card numbers, and validate them.

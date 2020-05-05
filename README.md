@@ -43,3 +43,7 @@ This is a brief index of the challenges in this project so far.
 
 4. Credit card  
    Write code to generate valid credit card numbers, and validate them.
+
+5. Dropbox sync  
+   Write code to do a backup (one-way sync) of local files to your Dropbox.  
+   Put this script in (a subfolder of) your JupyterHub directory to back up your files to Dropbox.
